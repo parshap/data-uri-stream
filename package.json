@@ -1,0 +1,31 @@
+{
+  "name": "data-uri-stream",
+  "version": "0.0.0",
+  "description": "Transform stream that emits a data uri",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:parshap/data-uri-stream.git"
+  },
+  "keywords": [
+    "datauri",
+    "data uri",
+    "data",
+    "uri"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/parshap/data-uri-stream/issues"
+  },
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "concat-stream": "~1.0.1"
+  }
+}
