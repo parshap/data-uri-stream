@@ -1,6 +1,6 @@
 {
   "name": "data-uri-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform stream that emits a data uri",
   "main": "index.js",
   "scripts": {
